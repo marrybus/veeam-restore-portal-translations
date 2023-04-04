@@ -1,8 +1,7 @@
 # veeam-restore-portal-translations
 Unofficial translations for Veeam Backup for Microsoft 365 Restore Portal
 
-With the Veeam Backup for Microsoft 365 v7 comes an HTML Restore Portal, and with it, the ability to translate your own instance.
-
+The HTML Restore Portal included in Veeam Backup for M365 v7 gives the ability to localize the console by replacing a single file.
 
 **NOT SUPPORTED, RUN IT UNDER YOUR OWN RESPONSIBILITY**
 

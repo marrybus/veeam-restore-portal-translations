@@ -9,6 +9,7 @@ With the Veeam Backup for Microsoft 365 v7 comes an HTML Restore Portal, and wit
 ## Polish Translation
 **PL** 
 1. na serwerze z Veeam Backup for M365 v7 wykonaj **backup** folderu:
+
 C:\Program Files\Veeam\Backup365\RestorePortal\static\js
 
 2. następnie skopiuj plik i zastąp plik main.v7.js

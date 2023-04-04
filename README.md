@@ -12,7 +12,7 @@ With the Veeam Backup for Microsoft 365 v7 comes an HTML Restore Portal, and wit
 
     C:\Program Files\Veeam\Backup365\RestorePortal\static\js
 
-2. następnie skopiuj plik main.v7.js z poniższego linka i zastąp istniejący wcześniej na serwerze.
+2. następnie skopiuj plik main.v7.js z poniższego linka i zastąp istniejący wcześniej na serwerze,
 
     https://github.com/marrybus/veeam-restore-portal-translations/blob/master/v7.0.0.2911/PL-pl/main.v7.js
 
@@ -23,7 +23,7 @@ With the Veeam Backup for Microsoft 365 v7 comes an HTML Restore Portal, and wit
 
     C:\Program Files\Veeam\Backup365\RestorePortal\static\js
 
-2. then replace main.v7.js file with file you can download bellow.
+2. then replace main.v7.js file with file you can download below,
 
     https://github.com/marrybus/veeam-restore-portal-translations/blob/master/v7.0.0.2911/PL-pl/main.v7.js
 
